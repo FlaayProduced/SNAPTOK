@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Downloader",
+  "description": "An application that automatically detects copied TikTok links and downloads videos without watermark.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
